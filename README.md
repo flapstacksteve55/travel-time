@@ -1,1 +1,1 @@
-# travel-time
+Ever wonder why your commute is taking forever? Use this simple script to compare travel times for 2 different routes! Just enter "Route 1" and "Route 2" (that you have named in the "travel.csv" file and it will produce a result log with the Means and Standard Deviations for each and also make a nice graph for you.
